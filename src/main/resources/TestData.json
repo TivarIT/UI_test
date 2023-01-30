@@ -1,0 +1,8 @@
+{
+  "mainPageURL": "https://userinyerface.com/",
+  "email": "emailaddress@gmail.com",
+  "gamePageURL": "https://userinyerface.com/game.html%20target=",
+  "avatarFilePath": "src/main/resources/avatar.jpg",
+  "timerText": "00:00:00",
+  "checkboxCount": 3
+}
